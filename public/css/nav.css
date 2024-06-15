@@ -1,0 +1,11 @@
+.nav-item .nav-link{
+    color: azure !important;
+    font-weight: bold;
+    font-family: 'Dosis', sans-serif;
+}
+.nav-item .nav-link.active{
+    color: aqua !important;
+    font-weight: bold;
+    font-family: 'Dosis', sans-serif;
+}
+
